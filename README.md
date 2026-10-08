@@ -72,46 +72,46 @@ The global generative AI foundation model platform sector is projected to exceed
 *Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Transformers (Hugging Face)](https://github.com/huggingface/transformers)** [![Stars](https://img.shields.io/github/stars/huggingface/transformers?style=social&color=white)](https://github.com/huggingface/transformers/stargazers)  
-  **State-of-the-art ML for text, vision, and audio**, Apache-2.0 licensed. **130K+ GitHub stars** — **100K+ pretrained models** . **Unified API for all modalities** . **The de facto standard for using foundation models** . 🤗
+  **State-of-the-art ML for text, vision, and audio**, Apache-2.0 licensed. **130K+ GitHub_Stars** — **100K+ pretrained models** . **Unified API for all modalities** . **The de facto standard for using foundation models** . 🤗
 
 - **[Open WebUI](https://github.com/open-webui/open-webui)** [![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)  
-  **Self-hosted ChatGPT-style UI**, MIT licensed. **124K+ GitHub stars** — **supports Ollama, OpenAI-compatible APIs, MCP servers, and RAG** . **Multi-user RBAC and LDAP/SSO** . 🔒
+  **Self-hosted ChatGPT-style UI**, MIT licensed. **124K+ GitHub_Stars** — **supports Ollama, OpenAI-compatible APIs, MCP servers, and RAG** . **Multi-user RBAC and LDAP/SSO** . 🔒
 
 - **[Ollama](https://github.com/ollama/ollama)** [![Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers)  
-  **Get up and running with large language models locally**, MIT licensed. **100K+ GitHub stars** — **the most accessible local LLM runner** . **One-command model deployment** — `ollama run llama3` . **Supports Llama, Mistral, Gemma, Phi, and more** . **OpenAI-compatible API** . **The standard for local LLM inference** . 🦙
+  **Get up and running with large language models locally**, MIT licensed. **100K+ GitHub_Stars** — **the most accessible local LLM runner** . **One-command model deployment** — `ollama run llama3` . **Supports Llama, Mistral, Gemma, Phi, and more** . **OpenAI-compatible API** . **The standard for local LLM inference** . 🦙
 
 - **[LangChain](https://github.com/langchain-ai/langchain)** [![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers)  
-  **Framework for developing LLM-powered applications**, MIT licensed. **90K+ GitHub stars** — **chains, agents, and RAG pipelines** . **Model-agnostic** — supports OpenAI, Anthropic, and local models . **The most widely used LLM application framework** . 🔗
+  **Framework for developing LLM-powered applications**, MIT licensed. **90K+ GitHub_Stars** — **chains, agents, and RAG pipelines** . **Model-agnostic** — supports OpenAI, Anthropic, and local models . **The most widely used LLM application framework** . 🔗
 
 - **[llama.cpp](https://github.com/ggerganov/llama.cpp)** [![Stars](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social&color=white)](https://github.com/ggerganov/llama.cpp/stargazers)  
-  **LLM inference in C/C++**, MIT licensed. **70K+ GitHub stars** — **runs on CPU, GPU, and Apple Silicon** . **GGUF quantization** for reduced memory footprint . **The foundation for Ollama and many local LLM tools** . **The most portable LLM inference engine** . 🦙
+  **LLM inference in C/C++**, MIT licensed. **70K+ GitHub_Stars** — **runs on CPU, GPU, and Apple Silicon** . **GGUF quantization** for reduced memory footprint . **The foundation for Ollama and many local LLM tools** . **The most portable LLM inference engine** . 🦙
 
 - **[vLLM](https://github.com/vllm-project/vllm)** [![Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers)  
-  **High-throughput and memory-efficient LLM serving engine**, Apache-2.0 licensed. **45K+ GitHub stars** — **PagedAttention delivers up to 24x higher throughput** . **Continuous batching** for efficient GPU utilization . **Supports Llama, Mistral, Qwen, and more** . **OpenAI-compatible API** . **The standard for production LLM serving** . ⚡
+  **High-throughput and memory-efficient LLM serving engine**, Apache-2.0 licensed. **45K+ GitHub_Stars** — **PagedAttention delivers up to 24x higher throughput** . **Continuous batching** for efficient GPU utilization . **Supports Llama, Mistral, Qwen, and more** . **OpenAI-compatible API** . **The standard for production LLM serving** . ⚡
 
 - **[LocalAI](https://github.com/mudler/LocalAI)** [![Stars](https://img.shields.io/github/stars/mudler/LocalAI?style=social&color=white)](https://github.com/mudler/LocalAI/stargazers)  
-  **OpenAI-compatible API for local inference**, MIT licensed. **30K+ GitHub stars** — **drop-in replacement for OpenAI API** . **Runs LLMs, image generation, and speech on consumer hardware** . **No GPU required** . 🖥️
+  **OpenAI-compatible API for local inference**, MIT licensed. **30K+ GitHub_Stars** — **drop-in replacement for OpenAI API** . **Runs LLMs, image generation, and speech on consumer hardware** . **No GPU required** . 🖥️
 
 - **[LiteLLM](https://github.com/BerriAI/litellm)** [![Stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social&color=white)](https://github.com/BerriAI/litellm/stargazers)  
-  **Call 100+ LLMs with a single OpenAI-compatible API**, MIT licensed. **22K+ GitHub stars** — **the universal LLM API proxy** . **Supports OpenAI, Anthropic, Azure, Bedrock, and more** . **The standard for multi-provider LLM integration** . 🔌
+  **Call 100+ LLMs with a single OpenAI-compatible API**, MIT licensed. **22K+ GitHub_Stars** — **the universal LLM API proxy** . **Supports OpenAI, Anthropic, Azure, Bedrock, and more** . **The standard for multi-provider LLM integration** . 🔌
 
 - **[LM Studio](https://github.com/lmstudio-ai/lmstudio)** [![Stars](https://img.shields.io/github/stars/lmstudio-ai/lmstudio?style=social&color=white)](https://github.com/lmstudio-ai/lmstudio/stargazers)  
-  **Desktop app for running local LLMs**, open-source. **20K+ GitHub stars** — **discover, download, and run local LLMs** . **GGUF model support** . **OpenAI-compatible API server** . **The most user-friendly local LLM GUI** . 🖥️
+  **Desktop app for running local LLMs**, open-source. **20K+ GitHub_Stars** — **discover, download, and run local LLMs** . **GGUF model support** . **OpenAI-compatible API server** . **The most user-friendly local LLM GUI** . 🖥️
 
 - **[SGLang](https://github.com/sgl-project/sglang)** [![Stars](https://img.shields.io/github/stars/sgl-project/sglang?style=social&color=white)](https://github.com/sgl-project/sglang/stargazers)  
-  **Fast serving framework for Large Language Models & Vision Language Models**, Apache-2.0 licensed. **15K+ GitHub stars** — **RadixCache for automatic KV cache reuse** . **High performance execution engine for deep reasoning and structured decoding** . ⚡
+  **Fast serving framework for Large Language Models & Vision Language Models**, Apache-2.0 licensed. **15K+ GitHub_Stars** — **RadixCache for automatic KV cache reuse** . **High performance execution engine for deep reasoning and structured decoding** . ⚡
 
 - **[Text Generation Inference (TGI)](https://github.com/huggingface/text-generation-inference)** [![Stars](https://img.shields.io/github/stars/huggingface/text-generation-inference?style=social&color=white)](https://github.com/huggingface/text-generation-inference/stargazers)  
-  **Hugging Face's production-grade LLM serving toolkit**, Apache-2.0 licensed. **13K+ GitHub stars** — **optimized inference with FlashAttention and PagedAttention** . **Token streaming and continuous batching** . **The standard for Hugging Face model serving** . 🤗
+  **Hugging Face's production-grade LLM serving toolkit**, Apache-2.0 licensed. **13K+ GitHub_Stars** — **optimized inference with FlashAttention and PagedAttention** . **Token streaming and continuous batching** . **The standard for Hugging Face model serving** . 🤗
 
 - **[FastChat](https://github.com/lm-sys/FastChat)** [![Stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social&color=white)](https://github.com/lm-sys/FastChat/stargazers)  
-  **Platform for training, serving, and evaluating chatbots**, Apache-2.0 licensed. **35K+ GitHub stars** — **the foundation for LMSYS Chatbot Arena** . **Supports Vicuna, FastChat-T5, and more** . 🏆
+  **Platform for training, serving, and evaluating chatbots**, Apache-2.0 licensed. **35K+ GitHub_Stars** — **the foundation for LMSYS Chatbot Arena** . **Supports Vicuna, FastChat-T5, and more** . 🏆
 
 - **[OpenLLMetry](https://github.com/traceloop/openllmetry)** [![Stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social&color=white)](https://github.com/traceloop/openllmetry/stargazers)  
-  **OpenTelemetry-based observability for LLM applications**, Apache-2.0 licensed. **6K+ GitHub stars** — **tracing, metrics, and evaluation for AI/LLM applications** . **Vendor-neutral instrumentation** . 🔭
+  **OpenTelemetry-based observability for LLM applications**, Apache-2.0 licensed. **6K+ GitHub_Stars** — **tracing, metrics, and evaluation for AI/LLM applications** . **Vendor-neutral instrumentation** . 🔭
 
 - **[Tabby](https://github.com/TabbyML/tabby)** [![Stars](https://img.shields.io/github/stars/TabbyML/tabby?style=social&color=white)](https://github.com/TabbyML/tabby/stargazers)  
-  **Self-hosted AI coding assistant**, Apache-2.0 licensed. **24K+ GitHub stars** — **open source alternative to GitHub Copilot** . **Self-contained LLM server with IDE extensions** . 💻
+  **Self-hosted AI coding assistant**, Apache-2.0 licensed. **24K+ GitHub_Stars** — **open source alternative to GitHub Copilot** . **Self-contained LLM server with IDE extensions** . 💻
 
 ---
 
@@ -146,7 +146,7 @@ If you find this generative AI foundation model platform repository useful, plea
 
 - This is a **community-curated** list — not exhaustive and not an endorsement. ℹ️
 - **Amazon Bedrock provides multi-model access** through a unified API with **enterprise governance** . **OpenAI API charges $0.15/1M input and $0.60/1M output tokens for GPT-4o mini** . **Groq offers LPU-based inference at $0.05–$0.08/1M tokens** .
-- **vLLM is the leading open-source inference engine** with **45K+ GitHub stars** and **PagedAttention delivering up to 24x higher throughput** . **Ollama is the most accessible local LLM runner** with **100K+ GitHub stars** and **one-command model deployment** .
+- **vLLM is the leading open-source inference engine** with **45K+ GitHub_Stars** and **PagedAttention delivering up to 24x higher throughput** . **Ollama is the most accessible local LLM runner** with **100K+ GitHub_Stars** and **one-command model deployment** .
 - **Open-source foundation model platforms are not turnkey** — they require **GPU infrastructure, model management, and ongoing maintenance** . **vLLM requires NVIDIA GPUs for optimal performance** . **Ollama runs on CPU and GPU but performance varies** . **Always validate model quality, latency, and cost with a proof-of-concept** before production deployment . 🧠
 
 ---
